@@ -1,0 +1,27 @@
+body{
+    font-family: 'Lato', sans-serif;
+
+}
+header{
+    font-size: 28px;
+    text-align: center;
+}
+nav{
+    font-size: 18px;
+    text-align: center;
+}
+article{
+    margin-left: 7vw;
+    margin-right: 7vw;
+}
+section{
+    font-size: 18px;
+    line-height: 1.4em;
+    text-align: justify;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+footer{
+    font-size: 18px;
+    text-align: center;
+}
