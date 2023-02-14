@@ -1,32 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow&display=swap');
 body{
-    font-family: 'Lato', sans-serif;
-}
-.header{
-    background-color: rgb(19, 67, 135);
-    color: white;
-    padding: 17px;
+    font-family: 'Barlow', sans-serif;
 }
 header{
-    font-size: 35px;
     text-align: center;
+}
+.title{
+    font-size: 35px;
 }
 nav{
-    font-size: 16px;
-    text-align: center;
-}
-article{
-    margin-left: 3vw;
-    margin-right: 3vw;
-}
-section{
     font-size: 18px;
-    line-height: 1.4em;
-    text-align: justify;
-    margin-bottom: 25px;
-    margin-top: 25px;
+    text-align: center;
 }
 footer{
     font-size: 16px;
     text-align: center;
     margin-bottom: 25px;
+}
+.post{
+    margin:12px;
+    font-size: 18px;
+    display: inline-grid;
+    column-gap: 0px;
+    grid-template-columns: 17vw 65vw;
+}
+.text{
+    text-align: justify;
 }
