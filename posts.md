@@ -1,5 +1,1 @@
-# [https://makwanadeepam.github.io](makwanadeepam.github.io)
-[Home](https://makwanadeepam.github.io/) | [Posts](posts.md) | [Contact](contact.md)
-- I am Deepam Makwana.
-- This is my blog.
-- This blog is static.
+[Posts](posts.md) | [Contact](contact.md)
