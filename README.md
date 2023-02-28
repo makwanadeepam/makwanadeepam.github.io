@@ -1,2 +1,1 @@
-# Makwana Deepam's Blog
-[Home](home.md) | [Posts](posts.md) | [About](about.md)
+[Home](home.md) | [Posts](posts.md) | [Contact](contact.md)
